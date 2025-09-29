@@ -1,5 +1,5 @@
 # Details
-One can find the slides of lecture 1 [here](Lecture 1.pdf).
+One can find the slides of lecture 1 `Lecture 1.pdf`.
 
 Below one can find the first exercises for the Digital Signal Processing part of Introduction to Smart Systems Engineering course at the Hanze University of Applied Sciences.
 
