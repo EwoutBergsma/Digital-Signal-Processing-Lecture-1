@@ -5,6 +5,7 @@ Below one can find the first exercises for the Digital Signal Processing part of
 
 
 # Exercises
+Only work in `.py` files that are in the root of this repository. Ignore files in the `test` folder. 
 
 1. Create a Numpy array that holds time data. Make it such that you have 100 timesteps (distributed linearly) ranging from 0 to 1 seconds. Store it in a variable.
     - Hint, you can use: numpy.arange() or numpy.linspace()
